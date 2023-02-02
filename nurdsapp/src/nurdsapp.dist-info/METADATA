@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: nurdsapp
+Formal-Name: NURDS App
+App-ID: com.example.nurdsapp
+Version: 0.0.1
+Home-page: https://example.com/nurdsapp
+Download-URL: https://example.com/nurdsapp
+Author: Dallin Schiffman and Daniel Dennis
+Author-email: dtschiffman@gmail.com
+Summary: Smartphone app for the New Universal Recreation Device System
